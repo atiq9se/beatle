@@ -1,0 +1,24 @@
+@media (max-width:991px){
+    .bannerText p {
+        padding: 20px 0px 30px 320px;
+    }
+    .about_content{
+        margin-top:30px;
+    }
+    .mb_30{
+        margin-bottom:30px;
+    }
+}
+@media (max-width:767px){
+    .bannerText p {
+        padding: 20px 0px 30px 120px;
+    }
+}
+@media (max-width:576px){
+    .topHeaderRight a{
+        padding-left:16px;
+    }
+    .bannerText p {
+        padding: 20px 0px 30px 20px;
+    }
+}
